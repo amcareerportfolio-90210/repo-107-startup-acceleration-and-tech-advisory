@@ -4,7 +4,7 @@
 
 ### Technology & Strategy Advisory (Qwykr Technologies)
 
-Welcome to the technology and business advisory portfolio of **Anand Manikutty**. This repository documents strategic consulting, startup acceleration initiatives, and media technology platforms developed during my tenure as Technology & Business Consultant and Senior Director at Qwykr Technologies from January 2018 to September 2023.
+Welcome to the technology and business advisory portfolio of **Anand Manikutty**. This repository documents strategic consulting, startup acceleration initiatives, and media technology platforms developed during my tenure in Tech Leadership in Technology & Business Consulting from January 2018 to September 2023.
 
 ---
 
