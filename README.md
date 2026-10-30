@@ -1,12 +1,9 @@
-# repo-107-startup-acceleration-and-tech-advisory
+## REPO NAME: repo-101-startup-acceleration-and-tech-advisory
 
-# repo-101-startup-acceleration-and-tech-advisory
+# Technology & Strategy Advisory (Fulmo Technologies, Qwykr Technologies & others)
 
-# Technology & Strategy Advisory (Qwykr Technologies)
-
-- **Organization:** Qwykr Technologies
-- **Role:** Technology & Business Consultant / Senior Director
-- **Duration:** January 2018 – September 2023
+- **Organization:** Fulmo Technologies, Qwykr Technologies & others
+- **Role:** Technology & Business Consultant
 - **Focus Areas:** Startup Acceleration, Media Technologies, Social Impact Architecture, & Multi-Sector Leadership
 
 ---
@@ -29,7 +26,7 @@ Provided high-level technology consulting, business strategy, and architecture a
   - Xartup for Startups
 - **Impact-Driven Frameworks (RALPH Platform):** Led the architectural development of low-cost, open-access technology frameworks—including the RALPH platform—prioritizing social utility, academic collaboration, and transparent tech over purely commercial ends. Engaged directly with international researchers, including two Nobel Laureates, to review and validate these platforms.
 
----
+--- 
 
 ## 📄 Technical Frameworks & Whitepapers
 
