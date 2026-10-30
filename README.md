@@ -22,12 +22,7 @@ Welcome to the technology and business advisory portfolio of **Anand Manikutty**
 ---
 
 ### Technical Frameworks & Documentation
-Comprehensive whitepapers detailing the technical architectures, data models, and software platforms engineered during this tenure at Qwykr Technologies are documented and available upon request.
-
----
-## 📄 Technical Frameworks & Whitepapers
-
-Comprehensive whitepapers detailing the technical architectures, data models, and software platforms engineered during this tenure at Qwykr Technologies are documented and available upon request.
+Comprehensive whitepapers detailing the technical architectures, data models, and software platforms engineered during the tenure at Fulmo Technologies & Qwykr Technologies are documented and available upon request.
 
 ---
 
