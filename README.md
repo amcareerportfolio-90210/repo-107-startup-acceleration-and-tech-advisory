@@ -1,5 +1,6 @@
 ## REPO NAME: repo-101-startup-acceleration-and-tech-advisory
-## REPO NAME: repo-101-startup-acceleration-and-tech-advisory
+
+---
 
 ### Technology & Strategy Advisory (Qwykr Technologies)
 
